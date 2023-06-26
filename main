@@ -1,0 +1,4 @@
+[<value_to_include> for <var> in <sequence>]
+[<value_to_include> for <var1> in <sequence1> for <var2> in <sequence2>]
+[<value_to_include> for <var> in <sequence> if <condition>]
+[<value> for <var1> in <sequence1> for <var2> in <sequence2> if <condition>]
